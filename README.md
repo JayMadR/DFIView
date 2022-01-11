@@ -1,6 +1,6 @@
 # DFIView
 
-I wanted to make a small excel sheet which gives a nice overview of whats going on on the DeFi-Blockchain and how my portfolio is performing.
+I wanted to make a small excel sheet which gives a nice overview of whats going on the DeFi-Blockchain and how my portfolio is performing.
 Well, it got "a little" bigger than expected...
 
 So I decided to share this with you guys!
